@@ -1,21 +1,19 @@
-# 💼 Personal Portfolio - [Your Name]
+# 💼 Personal Portfolio 
 
-This is my personal developer portfolio website built using [React / HTML / Tailwind CSS / etc.]. It highlights my skills, projects, resume, and contact information.
+This is my personal developer portfolio website built using [React / HTML / Tailwind CSS ]. It highlights my skills, projects, resume, and contact information.
 
 ## 🔗 Live Site
-
+https://portfolio-two-rouge-53.vercel.app/
 
 ## 🚀 Tech Stack
 - Frontend: React / HTML / CSS / Tailwind
-- Hosting: GitHub Pages / Vercel / Netlify
-- Domain: [yourdomain.com] (via GitHub Student Developer Pack)
+- Hosting: GitHub Pages / Vercel 
 
 ## 📸 Features
 - Responsive design for all devices
 - Interactive project showcase
 - Resume download option
 - Contact form (EmailJS )
-- Custom domain integration
 
 ## 🛠️ Setup Instructions
 ```bash
